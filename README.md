@@ -2,7 +2,7 @@
 # Database Design Project: Amerkabir University of Technology
 
 ## Introduction
-Welcome to the Database Design Project repository for the course at Amirkabir University of Technology, Tehran. This repository contains documentation and resources for a database design project developed by teaching assistants Ali and me.
+Welcome to the Database Design Project repository for the course at Amirkabir University of Technology, Tehran. This repository contains documentation and resources for a database design project developed by teaching assistants  me.
 
 ## Project Phases
 The project is organized into four phases, each focusing on different aspects of database design and implementation:
@@ -10,7 +10,6 @@ The project is organized into four phases, each focusing on different aspects of
 add soon
 
 ## Contributors
-- [Ali Noghabi] [@Ali-noghabi](https://github.com/Ali-noghabi)
 - [Alireza Parvaresh] [@parvvaresh](https://github.com/parvvaresh)
 
 ## Feedback and Support
